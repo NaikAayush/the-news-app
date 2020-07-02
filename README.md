@@ -1,3 +1,7 @@
+# To install required packages
+
+### `npm install`
+
 # To test on local server
 
 ### `npm start`
